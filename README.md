@@ -13,11 +13,12 @@ Research notes and code for TCM (Traditional Chinese Medicine) constitution data
 
 See [tcm-constitution-portfolio/README.md](tcm-constitution-portfolio/README.md).
 
-## Outreach (套磁)
+## Outreach (套磁) — Shan Liu
 
 - **GitHub:** https://github.com/Shanni/tcm-constitution-portfolio
-- Email templates: [research/tcm-constitution-data-sources/outreach-templates.md](research/tcm-constitution-data-sources/outreach-templates.md) (Templates A–C)
-- One-page pitch (export to PDF): [research/tcm-constitution-data-sources/ONE_PAGE_PITCH.md](research/tcm-constitution-data-sources/ONE_PAGE_PITCH.md)
+- **Email:** shan.liu.s3@gmail.com
+- **Pitch PDF:** 中国学校 → [ONE_PAGE_PITCH_ZH.md](research/tcm-constitution-data-sources/ONE_PAGE_PITCH_ZH.md) · English → [ONE_PAGE_PITCH_EN.md](research/tcm-constitution-data-sources/ONE_PAGE_PITCH_EN.md)
+- **Email templates (中英):** [outreach-templates.md](research/tcm-constitution-data-sources/outreach-templates.md) — Template C1/C2 中文推荐
 
 ## Disclaimer
 

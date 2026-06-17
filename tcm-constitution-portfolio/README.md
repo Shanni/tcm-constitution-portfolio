@@ -63,7 +63,7 @@ jupyter notebook notebooks/02_reproduce_su2019.ipynb
 | Cross-sectional SPSS | [Zenodo 18779514](https://zenodo.org/records/18779514) | Population stats |
 | 274-subject multimodal | [Mendeley cxtph3tjsg](https://data.mendeley.com/datasets/cxtph3tjsg/1) | ML baseline |
 
-See [`../research/tcm-constitution-data-sources/`](../research/tcm-constitution-data-sources/) for contacts, [outreach templates](../research/tcm-constitution-data-sources/outreach-templates.md) (incl. Template C), and [one-page pitch](../research/tcm-constitution-data-sources/ONE_PAGE_PITCH.md).
+See [`../research/tcm-constitution-data-sources/`](../research/tcm-constitution-data-sources/) — **Shan Liu** outreach: [中文摘要](../research/tcm-constitution-data-sources/ONE_PAGE_PITCH_ZH.md) · [English pitch](../research/tcm-constitution-data-sources/ONE_PAGE_PITCH_EN.md) · [email templates](../research/tcm-constitution-data-sources/outreach-templates.md)
 
 ## Repo layout
 
