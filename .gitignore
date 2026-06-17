@@ -1,0 +1,19 @@
+.DS_Store
+*.pyc
+.env
+.env.local
+
+# Python
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+
+# Data (download via scripts)
+tcm-constitution-portfolio/data/raw/
+
+# Node / Next.js
+**/node_modules/
+**/.next/
+
+# Large executed notebooks (regenerate locally)
+tcm-constitution-portfolio/python/notebooks/*.executed.ipynb

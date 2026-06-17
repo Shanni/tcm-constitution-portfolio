@@ -1,0 +1,4 @@
+group,n_columns,missing_cells,n_subjects,source
+demographics,9,0,274,Share data.xls
+biosignals,54,52,274,Share data.xls
+constitution_scores,8,0,274,Share data.xls

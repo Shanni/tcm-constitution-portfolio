@@ -1,0 +1,18 @@
+primary_code,primary_label,primary_status,count
+GTC,Balanced (Pinghe),yes,50
+QDC,Qi-deficiency,yes,37
+YiDC,Yin-deficiency,yes,31
+SDC,Inherited-special,yes,22
+YaDC,Yang-deficiency,yes,21
+QSC,Qi-stagnation,yes,21
+PDC,Phlegm-dampness,yes,21
+DHC,Damp-heat,yes,17
+BSC,Blood-stasis,yes,17
+YiDC,Yin-deficiency,tendency,7
+PDC,Phlegm-dampness,tendency,7
+QDC,Qi-deficiency,tendency,6
+YaDC,Yang-deficiency,tendency,5
+SDC,Inherited-special,tendency,5
+BSC,Blood-stasis,tendency,4
+DHC,Damp-heat,tendency,2
+QSC,Qi-stagnation,tendency,1

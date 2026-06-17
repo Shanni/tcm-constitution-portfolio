@@ -1,0 +1,15 @@
+data/raw/
+python/.venv/
+**/__pycache__/
+**/.pytest_cache/
+apps/web/node_modules/
+apps/web/.next/
+apps/web/.env.local
+*.pyc
+.DS_Store
+# Keep EDA figures for portfolio / GitHub pitch
+python/notebooks/output/*
+!python/notebooks/output/*.png
+!python/notebooks/output/*.csv
+# Executed notebooks optional (large); regenerate with nbconvert
+python/notebooks/*.executed.ipynb
