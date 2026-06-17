@@ -82,7 +82,7 @@ Best regards,
 
 Use after you have the GitHub repo + notebooks running. **Customize** `[brackets]`; send **separate** emails (do not CC both professors in one message).
 
-**GitHub:** `[https://github.com/YOUR_USER/tcm-constitution-portfolio]`  
+**GitHub:** https://github.com/Shanni/tcm-constitution-portfolio  
 **One-page PDF:** export from `ONE_PAGE_PITCH.md` in this folder.
 
 ### Variant C1 — BUCM / Wang Qi (CCMQ focus)
@@ -105,7 +105,7 @@ pipeline that implements CCMQ converted scoring (ZYYXH/T157-2009):
   • Validation path against Zenodo test data + official SAS reference (doi:10.5281/zenodo.4431679)
   • Mendeley N=274 multimodal baseline for context (doi:10.17632/cxtph3tjsg.1)
 
-Code and notebooks: [GitHub URL]
+Code and notebooks: https://github.com/Shanni/tcm-constitution-portfolio
   — python/notebooks/01_eda_mendeley.ipynb (cohort EDA)
   — python/notebooks/02_reproduce_su2019.ipynb (multimodal baselines)
 
@@ -123,7 +123,7 @@ Thank you for your time.
 Best regards,
 [Full name]
 [Email] · [Phone optional]
-[GitHub URL]
+https://github.com/Shanni/tcm-constitution-portfolio
 ```
 
 ### Variant C2 — CDUTCM / Mei Zhang (longitudinal + multimodal focus)
@@ -150,7 +150,7 @@ These results align with your finding that prediction without rich longitudinal 
 multi-modal inputs remains difficult. I would like to extend this work on the 
 54,990-record Deyang TCMECQ cohort under a collaboration or data-use agreement.
 
-Repository: [GitHub URL] · One-page summary attached.
+Repository: https://github.com/Shanni/tcm-constitution-portfolio · One-page summary attached.
 
 I can contribute [reproducible ML pipelines / software engineering / English writing / 
 your modality — customize]. Ethics coordination: [IRB status].
@@ -160,7 +160,7 @@ Thank you for considering my inquiry. I would welcome a brief conversation.
 Best regards,
 [Full name]
 [Email]
-[GitHub URL]
+https://github.com/Shanni/tcm-constitution-portfolio
 ```
 
 ---

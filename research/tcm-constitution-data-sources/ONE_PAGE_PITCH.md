@@ -1,7 +1,7 @@
 # One-Page Pitch — TCM Constitution Research Portfolio
 
 **For:** PhD supervisor outreach (2027 intake) · BUCM / CDUTCM / related institutes  
-**Repo:** `tcm-constitution-portfolio/` (see GitHub link below)  
+**Repo:** https://github.com/Shanni/tcm-constitution-portfolio  
 **Disclaimer:** Research prototype only — not clinical validation or a medical device.
 
 ---

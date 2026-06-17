@@ -15,6 +15,7 @@ See [tcm-constitution-portfolio/README.md](tcm-constitution-portfolio/README.md)
 
 ## Outreach (套磁)
 
+- **GitHub:** https://github.com/Shanni/tcm-constitution-portfolio
 - Email templates: [research/tcm-constitution-data-sources/outreach-templates.md](research/tcm-constitution-data-sources/outreach-templates.md) (Templates A–C)
 - One-page pitch (export to PDF): [research/tcm-constitution-data-sources/ONE_PAGE_PITCH.md](research/tcm-constitution-data-sources/ONE_PAGE_PITCH.md)
 
